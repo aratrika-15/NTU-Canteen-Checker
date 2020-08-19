@@ -1,0 +1,34 @@
+﻿Dish,Price,Stall,Days,Dinner,Breakfast,Lunch
+Lemon Chicken Rice,3,ChickenRice,1011111,1,0,1
+Roasted Chicken Rice,3,ChickenRice,1011111,1,0,1
+Thai Style Beancurd,2,ChickenRice,1011011,1,1,1
+Cheese Egg,2.5,Indian,1011111,0,1,0
+Butter Prata,1.7,Indian,1011111,0,1,1
+Mutton Briyani,4.5,Indian,1011111,1,0,1
+Banana milkshake,2.1,FruitJuice,1011111,1,1,1
+Carrot juice,1.8,FruitJuice,1011111,1,1,1
+Mixed fruitjuice,2.3,FruitJuice,1011111,1,1,1
+Chicken salad,3.9,Salad,1011111,1,0,1
+Smoked Salmon salad,4.5,Salad,1000111,1,0,1
+Vegan Bowl,3.9,Salad,1011011,1,1,1
+Tofu salad,3.9,Salad,1011111,1,0,1
+Garlic Bread,1.5,Italian,1011111,1,1,1
+Grilled Fish,3,Italian,1011011,0,0,1
+Chicken Spaghetti,3.5,Italian,1011111,1,0,1
+Crispy Chicken,4,Italian,1011111,1,0,1
+Vegetable,1.2,MalaHotPot,1011111,1,1,1
+Meat,1.8,MalaHotPot,1011111,1,0,1
+Seafood,2.3,MalaHotPot,1011111,1,0,1
+Chocolate Waffle,1.8,BakeryCuisine,1111111,1,1,1
+Ham and cheese Bread,2.2,BakeryCuisine,1011111,0,1,1
+Chocolate Muffin,2.2,BakeryCuisine,1111111,1,1,1
+Egg and Cheese,4.4,Subway,1111111,0,1,0
+Chicken Teriyaki,6.5,Subway,1111111,1,0,1
+Veggie Patty,7.5,Subway,1111111,1,0,1
+Blueberry Pancake,2.4,Mr.Bean,1011111,0,1,1
+Chicken Eggwich,4.2,Mr.Bean,1011111,1,1,1
+Icy viet Coffee,3.3,Mr.Bean,1011101,0,1,1
+Hotcakes,4.5,McDonalds,1111111,0,1,0
+Mc Chicken Meal,5,McDonalds,1111111,1,0,1
+Hershey's McFlurry,4.4,McDonalds,1111111,1,1,1
+Fillet o Fish Burger Meal,5.2,McDonalds,1111111,1,0,1
